@@ -1,8 +1,3 @@
-<h2>🏆 Profile Trophies🏆</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=latexgod&column=8&theme=darkhub&no-frame=true"/>
-
----
-
 <div>
   <img height="196" align="left" src="https://github-readme-stats.vercel.app/api?username=latexgod&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="realpuro"/>
   <img height="98" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=latexgod&show_icons=true&theme=github_dark&hide_border=true&layout=compact" alt="realpuro"/>
